@@ -1,5 +1,7 @@
 # ActProof — Bridge Note: Channel Coupling Detection
 
+> **Version:** 1.0 · **Last updated:** 2026-03-01 · **Status:** Stable
+
 **Perturbation-Response Analysis for Cross-Channel Interactions**
 
 ---

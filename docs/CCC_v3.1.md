@@ -1,5 +1,7 @@
 # ActProof — Compensator Cost Cascade (CCC) v3.1
 
+> **Version:** 3.1 · **Last updated:** 2026-03-01 · **Status:** Stable
+
 **Operational Pipeline for Real-Time Control Cost Monitoring**
 
 ---

@@ -1,5 +1,7 @@
 # ActProof — Latent Tension and Relaxation Time (DM v1.3.2)
 
+> **Version:** 1.3.2 · **Last updated:** 2026-03-01 · **Status:** Stable
+
 **Diagnostic Metrics for Hidden Structural Stress**
 
 ---

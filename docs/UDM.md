@@ -1,5 +1,7 @@
 # ActProof — Universal Diagnostic Model (UDM) v1.0
 
+> **Version:** 1.0 · **Last updated:** 2026-03-01 · **Status:** Stable
+
 **Unified Diagnostic Model for Autonomous Systems**
 
 > *The world iterates states and accumulates consequences.*
