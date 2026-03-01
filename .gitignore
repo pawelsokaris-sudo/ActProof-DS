@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# KataGo binaries (too large for git)
+katago.exe
+katago
+*.bin
+*.bin.gz
+*.dll
+*.so
+*.zip
+
+# Generated
+results/figures/*.png
+llm-monitoring/figures/*.png
